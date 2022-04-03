@@ -2,8 +2,8 @@
 
 ## Flow Chart
 
-![](link)
+![](https://github.com/DakshShende/Stepin_Personal_Ledger_Book/blob/main/2_Design/PLB%20Flow.jpeg)
 
-#### Component Design
+## UML Diagram
 
-![](link)
+![](https://github.com/DakshShende/Stepin_Personal_Ledger_Book/blob/main/2_Design/PLB%20UML%20DIAGRAM.png)
